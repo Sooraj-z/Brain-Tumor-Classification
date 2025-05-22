@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Classification using EfficientNet-B0
 
-This project performs multi-class classification of brain tumor MRI scans using a fine-tuned EfficientNet-B0 model. The model distinguishes between four tumor types — glioma, meningioma, pituitary, and no tumor — with nearly 99% accuracy. Built for real-world reliability and supported with explainability techniques like Grad-CAM.
+This project performs multi-class classification of brain tumor MRI scans using a fine-tuned EfficientNet-B0 model. The model distinguishes between four tumor types — glioma, meningioma, pituitary, and no tumor — with nearly 99% accuracy.
 
 🔗 [Back to Main GitHub Profile](https://github.com/Sooraj-z)
 
